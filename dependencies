@@ -1,0 +1,7 @@
+You would be needing the following to run the code:
+Python 3.7
+Jupyter notebook (for the ease of running the code)
+Pandas
+NLTK
+sklearn
+
